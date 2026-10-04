@@ -7,10 +7,13 @@ Data Structures and Algorithms
 Python 3.x features
 PyTorch for DL
 LLM Fine-Tuning, Training
+Langchain, LangGraph (Agentic AI)
+Weights and Biases, Mlflow (Tracking)
 
 LeetCode: https://leetcode.com/u/GRN8ze75f6/
 
 References:
 Fluent Python
 Python Concurrency with Asyncio
+Python Course: https://python-course.eu/python-tutorial/
 
